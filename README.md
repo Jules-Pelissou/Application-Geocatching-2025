@@ -1,6 +1,6 @@
-============================================================================================
+===========================================================================
 
-# Application pour le projet Géocaching de l'Oncopole (2025)
+# Application pour le projet Géocaching (2025)
 
 Petite application web simple en JS qui permet de charger des fichiers en JSON pour les faire afficher sur la carte.
 Le format des données attendues en JSON :
@@ -42,6 +42,6 @@ Le style.css a été généré (il n'est pas très compréhensible).
 
 L'appli a été montée en 1h30 max, soyez indulgents.
 
-============================================================================================
+===========================================================================
 
 _Application faite par ©Jules_PELISSOU._
