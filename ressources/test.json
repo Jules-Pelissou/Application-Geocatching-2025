@@ -1,0 +1,11 @@
+[
+  { "x": 50, "y": 50, "nom": "Charles" },
+  { "x": 5, "y": 5, "nom": null },
+  { "x": 15, "y": 15, "nom": null },
+  { "x": 20, "y": 20, "nom": null },
+  { "x": 45, "y": 45, "nom": "Michel" },
+  { "x": 60, "y": 60, "nom": null },
+  { "x": 55, "y": 55, "nom": null },
+  { "x": 25, "y": 25, "nom": null },
+  { "x": 40, "y": 40, "nom": null }
+]

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta  name= "author" content="Jules Pelissou">
+    <link rel="stylesheet" href="style.css">
+    <title>Map</title>
+</head>
+
+<body>
+    <h1>Mapping des points prédits</h1>
+
+    <div id="params">
+        <input type="file" id="fileInput" />
+        <div>
+            <input type="checkbox" name="keep" id="keep">
+            <label for="keep">Garder les points actifs ?</label>
+        </div>
+        <div>
+            <button id="deletePoints">Effacer tous les points</button>
+        </div>
+    </div>
+
+
+    <div id="mainContainer">
+        <div id="map"></div>
+        <div id="listeFichiers">
+            <h2>Fichiers chargés :</h2>
+            <ul id="fileList"></ul>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/leaflet/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet/dist/leaflet.css" />
+    <script src="script.js"></script>
+</body>
+
+
+</html>
